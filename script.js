@@ -22,7 +22,7 @@ function lst()
 
 function post() {console.log("This doesn't work yet");}
 
-var url = 'https://ducklord42.github.io/postapost/gallery.json';
+var url = 'https://writeonly-memory.github.io/postapost/gallery.json';
 
 fetch(url)
   .then(function(response) {
